@@ -3,6 +3,7 @@
 
 import { React, useState } from 'react'
 import Link from 'next/link'
+import Image from 'next/image';
 
 const Navbar = () => {
     const [navbar, setNavbar] = useState(false);
@@ -11,7 +12,7 @@ const Navbar = () => {
         <nav className='navbar fixed w-full z-20 top-0 start-0 bg-slate-900'>
             <div className='max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4'>
                 <Link href='/' className='flex items-center space-x-3'>
-                    <img className='h-8 bg-white border rounded-full' src='/union.png' alt='navbar-logo' />
+                    <Image width={200} height={200} className='h-8 w-8 bg-white border rounded-full' src='/union.png' alt='navbar-logo' />
                     <span className='self-center text-2xl font-semibold whitespace-nowrap text-white'>Dream Home</span>
                 </Link>
                 <div className='flex md:order-2 space-x-3 md:space-x-0'>
