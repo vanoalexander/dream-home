@@ -24,7 +24,7 @@ const Testimonials = () => {
                     <figure className="flex flex-col items-center justify-center p-8 text-center border-b md:rounded-se-lg bg-gray-800 border-gray-700">
                         <blockquote className="max-w-2xl mx-auto mb-4 lg:mb-8 text-gray-400">
                             <h3 className="text-lg font-semibold text-white">I felt 100% confident partnering with Dream Home</h3>
-                            <p className="my-4">&quot;Sold my house recently with Dream Home and while this can be a stressful process, Dream Home make it easier, now i'm trying to buy next house with Dream Home&quot;</p>
+                            <p className="my-4">&quot;Sold my house recently with Dream Home and while this can be a stressful process, Dream Home make it easier, now i&apos;m trying to buy next house with Dream Home&quot;</p>
                         </blockquote>
                         <figcaption className="flex items-center justify-center ">
                             <img className="rounded-full w-9 h-9" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/roberta-casas.png" alt="profile picture" />
