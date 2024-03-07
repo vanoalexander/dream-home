@@ -18,7 +18,7 @@ const History = () => {
             <hr className="w-48 h-1 mx-auto my-4 border-0 rounded md:my-10 bg-gray-500"></hr>
             <div>
                 <h3 className='m-20 mb-10 text-xl font-serif tracking-wider text-gray-500'>Our Work Culture</h3>
-                <h4 className='m-10 text-2xl sm:text-3xl font-semibold'>--The company's core value are Respect Above All, Trust and Resourcefulness.--</h4>
+                <h4 className='m-10 text-2xl sm:text-3xl font-semibold'>--The company&apos;s core value are Respect Above All, Trust and Resourcefulness.--</h4>
                 <Image width={1000} height={1000} className='w-1/2 m-auto border rounded-full' src='/office-bg.jpg' alt='culture' />
                 <p className='px-32 py-10 text-gray-700 font-serif font-medium'>Aliquip dolor consectetur consequat cupidatat duis aliquip eu minim Lorem irure nulla. Reprehenderit exercitation sint ad dolore deserunt deserunt enim nulla. Occaecat duis in exercitation magna laboris ea adipisicing laboris consectetur amet. Id pariatur in ullamco deserunt. Cillum ipsum eu ea nisi nostrud eu. Nostrud mollit amet sit esse est laborum elit nulla laborum velit elit anim. Esse ea deserunt consectetur sint officia Lorem quis amet qui.
                     Culpa voluptate tempor adipisicing adipisicing sint esse Lorem tempor. Exercitation ad elit excepteur deserunt labore occaecat. Pariatur aliqua adipisicing excepteur quis incididunt non. Est non quis aliqua consequat proident ullamco reprehenderit esse ipsum.</p>

@@ -8,7 +8,7 @@ const HouseSC = () => {
             <div className='m-20 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 py-8 px-12'>
                 <div className='border rounded-lg hover:bg-green-600 hover:text-white hover:shadow-2xl'>
                     <div>
-                        <Image width={1000} height={1000} className='w-full h-2/3' src='/house1.jpg' />
+                        <Image width={1000} height={1000} className='w-full h-2/3' src='/house1.jpg' alt='house-photo' />
                     </div>
                     <div className='m-5'>
                         <p className='text-2xl sm:text-xl md:text-2xl font-extrabold'>IDR 200.000.000,-</p>
@@ -25,7 +25,7 @@ const HouseSC = () => {
                 </div>
                 <div className='border rounded-lg hover:bg-green-600 hover:text-white hover:shadow-2xl'>
                     <div>
-                        <Image width={1000} height={1000} className='w-full h-2/3' src='/house2.jpg' />
+                        <Image width={1000} height={1000} className='w-full h-2/3' src='/house2.jpg' alt='house-photo' />
                     </div>
                     <div className='m-5'>
                         <p className='text-2xl sm:text-xl md:text-2xl font-extrabold'>IDR 200.000.000,-</p>
@@ -42,7 +42,7 @@ const HouseSC = () => {
                 </div>
                 <div className='border rounded-lg hover:bg-green-600 hover:text-white hover:shadow-2xl'>
                     <div>
-                        <Image width={1000} height={1000} className='w-full h-2/3' src='/house3.jpg' />
+                        <Image width={1000} height={1000} className='w-full h-2/3' src='/house3.jpg' alt='house-photo' />
                     </div>
                     <div className='m-5'>
                         <p className='text-2xl sm:text-xl md:text-2xl font-extrabold'>IDR 200.000.000,-</p>
@@ -59,7 +59,7 @@ const HouseSC = () => {
                 </div>
                 <div className='border rounded-lg hover:bg-green-600 hover:text-white hover:shadow-2xl'>
                     <div>
-                        <Image width={1000} height={1000} className='w-full h-2/3' src='/house4.jpg' />
+                        <Image width={1000} height={1000} className='w-full h-2/3' src='/house4.jpg' alt='house-photo' />
                     </div>
                     <div className='m-5'>
                         <p className='text-2xl sm:text-xl md:text-2xl font-extrabold'>IDR 200.000.000,-</p>
@@ -76,7 +76,7 @@ const HouseSC = () => {
                 </div>
                 <div className='border rounded-lg hover:bg-green-600 hover:text-white hover:shadow-2xl'>
                     <div>
-                        <Image width={1000} height={1000} className='w-full h-2/3' src='/house5.jpg' />
+                        <Image width={1000} height={1000} className='w-full h-2/3' src='/house5.jpg' alt='house-photo' />
                     </div>
                     <div className='m-5'>
                         <p className='text-2xl sm:text-xl md:text-2xl font-extrabold'>IDR 200.000.000,-</p>
@@ -93,7 +93,7 @@ const HouseSC = () => {
                 </div>
                 <div className='border rounded-lg hover:bg-green-600 hover:text-white hover:shadow-2xl'>
                     <div>
-                        <Image width={1000} height={1000} className='w-full h-2/3' src='/house6.jpg' />
+                        <Image width={1000} height={1000} className='w-full h-2/3' src='/house6.jpg' alt='house-photo' />
                     </div>
                     <div className='m-5'>
                         <p className='text-2xl sm:text-xl md:text-2xl font-extrabold'>IDR 200.000.000,-</p>

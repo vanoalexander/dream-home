@@ -28,7 +28,7 @@ const Team = () => {
                         return (
                             <>
                                 <div key={index} className='block max-w-sm p-6 text-center text-green-600 bg-white rounded-lg mb-7 shadow-md shadow-gray-500 hover:bg-green-500 hover:text-white hover:shadow-md hover:shadow-green-700'>
-                                    <img className='block mb-5 m-auto rounded-md' src={people.picture?.large} />
+                                    <img className='block mb-5 m-auto rounded-md' src={people.picture?.large} alt='employee-photo' />
                                     <h3 className='text-xl font-bold'>{people.name?.first} {people.name?.last}</h3>
                                     <p className='text-sm font-light'>{people?.email}</p>
                                 </div>

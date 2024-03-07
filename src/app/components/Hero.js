@@ -12,7 +12,7 @@ const Hero = () => {
                     for you, for sale or rent with trusted sources.</h3>
                 <Link href='/services'><button type="button" className="text-white font-semibold bg-gradient-to-r from-lime-300 via-lime-400 to-lime-500 hover:bg-gradient-to-br hover:scale-110 duration-500 rounded-lg text-base px-5 py-3.5 text-center me-2 mb-2 mt-8">Find House</button></Link>
             </div>
-            <Image className='absolute right-0 bottom-0 md:w-fit md:h-fit' width={500} height={500} src='/hero-test.png' />
+            <Image className='absolute right-0 bottom-0 md:w-fit md:h-fit' width={500} height={500} src='/hero-test.png' alt='house-image' />
         </div>
     )
 }

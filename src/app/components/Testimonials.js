@@ -11,7 +11,7 @@ const Testimonials = () => {
                     <figure className="flex flex-col items-center justify-center p-8 text-center border-b rounded-t-lg md:rounded-t-none md:rounded-ss-lg md:border-e bg-gray-800 border-gray-700">
                         <blockquote className="max-w-2xl mx-auto mb-4 lg:mb-8 text-gray-400">
                             <h3 className="text-lg font-semibold text-white">Found my dream beach house</h3>
-                            <p className="my-4">"So helpful with finding the house and environment that i wanted"</p>
+                            <p className="my-4">&quot;So helpful with finding the house and environment that i wanted&quot;</p>
                         </blockquote>
                         <figcaption className="flex items-center justify-center ">
                             <img className="rounded-full w-9 h-9" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/karen-nelson.png" alt="profile picture" />
@@ -24,7 +24,7 @@ const Testimonials = () => {
                     <figure className="flex flex-col items-center justify-center p-8 text-center border-b md:rounded-se-lg bg-gray-800 border-gray-700">
                         <blockquote className="max-w-2xl mx-auto mb-4 lg:mb-8 text-gray-400">
                             <h3 className="text-lg font-semibold text-white">I felt 100% confident partnering with Dream Home</h3>
-                            <p className="my-4">"Sold my house recently with Dream Home and while this can be a stressful process, Dream Home make it easier, now i'm trying to buy next house with Dream Home"</p>
+                            <p className="my-4">&quot;Sold my house recently with Dream Home and while this can be a stressful process, Dream Home make it easier, now i'm trying to buy next house with Dream Home&quot;</p>
                         </blockquote>
                         <figcaption className="flex items-center justify-center ">
                             <img className="rounded-full w-9 h-9" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/roberta-casas.png" alt="profile picture" />
@@ -37,7 +37,7 @@ const Testimonials = () => {
                     <figure className="flex flex-col items-center justify-center p-8 text-center border-b md:rounded-es-lg md:border-b-0 md:border-e bg-gray-800 border-gray-700">
                         <blockquote className="max-w-2xl mx-auto mb-4 lg:mb-8 text-gray-400">
                             <h3 className="text-lg font-semibold text-white">Gave us many helpful suggestions on how to update our home</h3>
-                            <p className="my-4">"I would highly recommend Dream Home. They gave us many helpful suggestions on how to update our home. We followed many of their ideas and our home looked amazing."</p>
+                            <p className="my-4">&quot;I would highly recommend Dream Home. They gave us many helpful suggestions on how to update our home. We followed many of their ideas and our home looked amazing.&quot;</p>
                         </blockquote>
                         <figcaption className="flex items-center justify-center ">
                             <img className="rounded-full w-9 h-9" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png" alt="profile picture" />
@@ -50,7 +50,7 @@ const Testimonials = () => {
                     <figure className="flex flex-col items-center justify-center p-8 text-center rounded-b-lg md:rounded-se-lg bg-gray-800 border-gray-700">
                         <blockquote className="max-w-2xl mx-auto mb-4 lg:mb-8 text-gray-400">
                             <h3 className="text-lg font-semibold text-white">Efficient Collaborating</h3>
-                            <p className="my-4">"It was such a pleasure working with Dream Home who seemed to have all answers to my real estate questions"</p>
+                            <p className="my-4">&quot;It was such a pleasure working with Dream Home who seemed to have all answers to my real estate questions&quot;</p>
                         </blockquote>
                         <figcaption className="flex items-center justify-center ">
                             <img className="rounded-full w-9 h-9" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/joseph-mcfall.png" alt="profile picture" />
